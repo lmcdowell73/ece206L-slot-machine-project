@@ -1,7 +1,8 @@
 Things still do to: 
-1. Make symbols appear on the display instead of Numbers, like a real slot machine. 
-2. Fix the messaging system so it updates when the bet goes from invalid to valid
-3. Fix the messaging system so it updates when the balance goes from insufficent to sufficient. 
-4. Make the Front Panel appear more gameified. 
-5. Create a testing plan and document.
-6. Update and finalize concept and requirement document. 
+1. Make symbols appear on the display instead of Numbers, like a real slot machine. x
+2. Fix the messaging system so it updates when the bet goes from invalid to valid.  x
+3. Fix the messaging system so it updates when the balance goes from insufficent to sufficient.  x
+4. Make the Front Panel appear more gameified. x
+5. Create a testing plan and document.     x   
+6. Update and finalize concept and requirement document. x   
+7. Write Design Document. x
